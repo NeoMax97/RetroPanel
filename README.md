@@ -1,0 +1,1 @@
+Pong and Tetris designed to run on a 16x16 LED Matrix. Written in Arduino, this code allows the player to control parts of the game using the HC-SR04 Ultrasonic Distance Sensor. A really fun project to code and even more enjoyable to play.
